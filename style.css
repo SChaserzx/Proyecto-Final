@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  font-family: Arial, Helvetica, sans-serif;
+  
+
+}
+
+
+  
+.carousel-control-prev-icon {
+  
+  background-color: black;
+}
+
+.carousel-control-next-icon {
+  background-color: black;
+}
+
+.div class{
+  border: dotted;
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+}
+
+
+
+
+
+.footer{
+  background-color: #ccc;
+  clear: both;
+  color: #333;
+  padding: 3em 0;
+  margin-top: 2em;
+  text-align: center;
+}
